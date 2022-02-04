@@ -1,7 +1,14 @@
-body {
+header {
+    font: 90% sans;
     text-align: center;
 }
 
-header {
+p.a {
+    margin-left: 480px;
+    margin-right: 150px;
     font: 90% sans;
+}
+
+div {
+    text-align: center;
 }
